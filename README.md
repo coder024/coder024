@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi Techies 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khushboo</h1>
-<h3 align="center">I'm a tech enthusiast, passionate Web and And Developer, UI/UX designer and Blogger!!.</h3>
+<h3 align="center">I'm a tech enthusiast, passionate Web and App Developer, UI/UX designer and Blogger!!.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -10,6 +10,9 @@
 - 🥅 2022 Goals: Learn more about web3, AR & VR, and cybersecurity.
 - ⚡ Fun fact: I am nature lover and have very inquistive/curious character.
 - 😻 I love to connect with people and always look forward to expand my network with like minded people.
+
+## My Portfolio
+~https://khushboo-portfolio-nine.vercel.app/
 
 ## 🚀 Languages and Tools:
 
@@ -68,6 +71,8 @@
 <a href = "https://www.linkedin.com/in/khushboo-kumari-767434201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/khushi8709"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/_khushboo__25/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://medium.com/khushboo25/"><img src="https://img.icons8.com/fluent/48/000000/medium.png"/></a>
+
 
 
 </p>
