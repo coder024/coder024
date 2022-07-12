@@ -71,7 +71,7 @@
 <a href = "https://www.linkedin.com/in/khushboo-kumari-767434201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/khushi8709"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/_khushboo__25/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://medium.com/@khushboo7324/"><img src="https://icons8.com/icon/BzFWSIqh6bCr/medium-logo"/></a>
+<a href = "https://medium.com/@khushboo7324/"><img src="https://icons8.com/icon/fluent/48/000000/medium-logo"/></a>
 
 
 
